@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+h1, h2, .recipes, p, li {
+    color: yellowgreen;
+}
+
+img {
+    width: 400px;
+    height: auto; 
+}
