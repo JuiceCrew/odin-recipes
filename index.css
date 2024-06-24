@@ -4,9 +4,16 @@ body {
 
 h1, h2, .recipes, p, li {
     color: yellowgreen;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
 }
 
 img {
     width: 400px;
     height: auto; 
+    display: block;
+    margin: auto;
 }
